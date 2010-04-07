@@ -1,0 +1,8 @@
+3
+A|B|C
+A
+1
+C
+4
+AbB|BaB|BbC|CaC
+
