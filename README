@@ -1,0 +1,22 @@
+======== Programa de Linguagens Formais e Automatos ========
+
+Objetivo: O programa lê de um arquivo txt previamente padronizado e formatado um automato e suas regras e cria um objeto automato.
+
+Apos isso é possivel testar cadeias neste automato.
+O programa devolve se a cadeia é aceita ou rejeitada.
+
+
+Padrão do arquivo txt:
+1a linha => numero de estados
+2a linha => os estados
+3a linha => estado inicial
+4a linha => numero de estados finais
+5a linha => estado(s) final(ais)
+6a linha => numero de transicões
+7a linha => transicoes do tipo "AaB|BaC" separados por |
+
+
+Sugestões são bem vindas!
+
+Jośe Carlos Maciel
+
